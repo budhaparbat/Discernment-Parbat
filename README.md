@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Discernment-Parbat
-- 👀 I’m interested in Machine Learning and web app development.
+- 👀 I’m interested in Machine Learning and AI.
 - 🌱 I’m currently learning java the computer programming language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: vision.parbatbudha@gmail.com

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Discernment-Parbat
 - 👀 I’m interested in Machine Learning and AI.
 - 🌱 Java,Python,ruby.
-- 💞️ I’m looking to collaborate on ...
+- 💞️
 - 📫 How to reach me email: vision.parbatbudha@gmail.com
 
 <!---
